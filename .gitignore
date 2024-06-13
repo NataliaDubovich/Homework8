@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.ideagit
 .apt_generated
 .classpath
 .factorypath
